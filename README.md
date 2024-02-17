@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  [![Rails](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/150px-Ruby_On_Rails_Logo.svg.png "rubyonrails") ](https://rubyonrails.org/)
+  [![React](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/150px-React-icon.svg.png "react") ](https://reactjs.org/)
 </div>
 
 
